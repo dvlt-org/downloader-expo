@@ -5,7 +5,7 @@ import UploadedScreen from "./screens/Uploaded.js";
 import Drawer from "./screens/Drawer.js";
 import Icon from "react-native-vector-icons/FontAwesome";
 import { useRef } from "react";
-import { Animated, TouchableWithoutFeedback, View } from "react-native";
+import { Animated, TouchableWithoutFeedback } from "react-native";
 
 const bottomTab = createBottomTabNavigator();
 
